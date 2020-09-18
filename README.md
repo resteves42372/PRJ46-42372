@@ -18,4 +18,4 @@ Descrição:
 Como instalar a aplicação:
 - Ter um dispositivo Android
 - Permitir instalações a partir de fontes externas
-- Download do ficheiro APK: https://we.tl/t-NRC3ulvPA8
+- O ficheiro APK encontra-se na diretoria "03_Implementacao/APK"
