@@ -19,3 +19,8 @@ Como instalar a aplicação:
 - Ter um dispositivo Android
 - Permitir instalações a partir de fontes externas
 - O ficheiro APK encontra-se na diretoria "03_Implementacao/APK"
+
+Para utilizar a aplicação, é necessário o registo de uma conta de utilizador.
+Caso apenas queira experimentar, pode utilizar as seguintes credenciais de login,
+- E-mail: resteves.studio@gmail.com
+- Palavra-passe: basket
